@@ -3,4 +3,4 @@ App hecha en flutter, que cambia de tema (dark y light), y lo guarda, esta app u
 ### Utiliza la dependencia <<shared_preferences: ^0.5.3+4>>
 
 ![Captura de la App](assets/img/modo_light.png)
-![Captura de la App](assets/modo_dark.png)
+![Captura de la App](assets/img/modo_dark.png)
